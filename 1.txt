@@ -74,7 +74,12 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 
 国际,#genre#
 亚洲新闻1080P,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-半岛英语,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+AL Jazeera English,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+NHK WORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+FOX NewsNOW,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+Bloomberg TV,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8?zshijd
+朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 江苏,#genre#
 江苏城市,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw1444134710_605660387/ott.mobaibox.com/PLTV/88888890/224/3221225929/index.m3u8?icpid=88888890&RTS=1687953656&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
@@ -83,4 +88,10 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 江苏体育休闲,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1535211092_-1113928882/ott.mobaibox.com/PLTV/88888890/224/3221225935/index.m3u8?icpid=88888890&RTS=1687953747&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 江苏影视,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw1560175852_-2072963186/ott.mobaibox.com/PLTV/88888890/224/3221225937/index.m3u8?icpid=88888890&RTS=1687953772&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 江苏教育,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1391469469_704234273/ott.mobaibox.com/PLTV/88888890/224/3221225923/index.m3u8?icpid=88888890&RTS=1687953603&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+盐城1,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/4/224/3221228435/index.m3u8
+盐城1,http://[2409:8087:2001:20:2800:0:df6e:eb25]/wh7f454c46tw1245367087_-983708624/ott.mobaibox.com/PLTV/4/224/3221228435/index.m3u8
+盐城2,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228433/index.m3u8
+盐城2,http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw1131928239_2039612798/ott.mobaibox.com/PLTV/4/224/3221228433/index.m3u8
+盐城3,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228436/index.m3u8
+盐城3,http://[2409:8087:2001:20:2800:0:df6e:eb21]/wh7f454c46tw1299375729_1661164560/ott.mobaibox.com/PLTV/4/224/3221228436/index.m3u8
 盐都综合频道,http://yandu-tv-hls.cm.jstv.com/yandu-tv/yanduzh.m3u8
